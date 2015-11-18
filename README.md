@@ -6,7 +6,7 @@ login con factor de doble verificación
 <a href="http://mtiseg.byethost33.com">OPCION 2 - VER FUNCIONAL</a>
 <p></p>
 
-<p>#USO:</p>
+#USO:
 En la carpeta /Data está la base de datos con la tabla usuarios y la estructura utilizada para el funcionamiento de  login2fac.
 <p></p>
 <p></p>
